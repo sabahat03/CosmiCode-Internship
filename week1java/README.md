@@ -36,6 +36,6 @@ This repository contains solutions for the Week 1 Java tasks of the CosmiCode In
 ## Demo Video
 
 Watch the demo video showing all tasks being run:  
-[Demo Video Link](<your-video-link-here>)
+[Demo Video Link](<https://drive.google.com/file/d/1WvJ71tZtptyMhDOZz0lYprL7NM9iZqZN/view?usp=drive_link>)
 
 ---
