@@ -37,6 +37,6 @@ This repository contains solutions for the Week 2 Java tasks of the CosmiCode In
 ## Demo Video
 
 Watch the demo video showing all tasks being run:  
-[Demo Video Link](<your-demo-video-link-here>)
+[Demo Video Link](<https://drive.google.com/file/d/13GqR5ADSGKcpw5gn3AlOGID2YNGirqrV/view?usp=drive_link>)
 
 ---
