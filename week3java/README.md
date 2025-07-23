@@ -40,6 +40,6 @@ This repository contains solutions for the Week 3 Java tasks of the CosmiCode In
 ## Demo Video
 
 Watch the demo video showing all tasks being run:  
-[Demo Video Link](<your-demo-video-link-here>)
+[Demo Video Link](<https://drive.google.com/file/d/1tst8pO34fNtRvW8OCQx6gVz5r5xcYkxZ/view?usp=drive_link>)
 
 ---
