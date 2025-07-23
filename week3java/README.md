@@ -1,6 +1,6 @@
-## CosmiCode Internship - Week 3 Java Tasks
+ ##CosmiCode Internship - Week 3 Java Tasks
 
-This repository folder contains solutions for the Week 3 Java tasks of the CosmiCode Internship.
+This repository contains solutions for the Week 3 Java tasks of the CosmiCode Internship.
 
 ## Folder Structure
 
